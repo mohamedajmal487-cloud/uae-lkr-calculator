@@ -1,0 +1,1 @@
+Open index.html in Google Chrome. On Android Chrome choose ⋮ > Add to Home screen. Formula: (AED × exchange rate) + (KG × weight charge). Defaults: rate 90.0223, weight charge LKR 4,500/kg.
